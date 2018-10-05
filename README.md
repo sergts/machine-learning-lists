@@ -15,6 +15,7 @@ Sorted by the number of stars.
 | [awesome-nlp](https://github.com/keon/awesome-nlp)  |Natural Language Processing|Tutorials, libraries, datasets, annotation tools, research|6,630|
 | [awesome-rnn](https://github.com/kjw0612/awesome-rnn)  |Recurrent Neural Networks|Examples, lectures, books, blogs, datasets|5,079|
 | [awesome-rl](https://github.com/aikorea/awesome-rl)  |Reinforcement Learning|Examples, lectures, papers, platforms, demos|4,542|
+| [machine-learning-curriculum](https://github.com/off99555/machine-learning-curriculum)  |Machine Learning|Lectures, articles, trained models,  blogs, people, research|535|
 
 Hopefully you will find what you are looking for in one of them.
 If not, try maybe a more general list of lists https://github.com/sindresorhus/awesome
